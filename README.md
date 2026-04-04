@@ -23,7 +23,7 @@
 
 | Login | Register | Home |
 |-------|----------|------|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Home](screenshots/home.png) |
+| Screenpresent |
 
 ---
 
