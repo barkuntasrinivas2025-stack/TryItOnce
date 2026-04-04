@@ -23,7 +23,7 @@
 
 | Login | Register | Home |
 |-------|----------|------|
-| tryitonce/tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/HomeScreen.png |
+| [tryitonce/tryitonce/ScreenShots/CreateAccount.png](https://github.com/barkuntasrinivas2025-stack/tryitonce/blob/76922c650a788c309c9cf2f1d74f7fc83e415d4f/tryitonce/ScreenShots/CreateAccount.jpg) | tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/HomeScreen.png |
 
 ---
 
