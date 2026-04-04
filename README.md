@@ -5,13 +5,13 @@
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-2024.09-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-2.52-FF6F00?style=flat&logo=google&logoColor=white)
 ![Tests](https://img.shields.io/badge/Unit%20Tests-10%20passing-22C55E?style=flat)
-![CI](https://github.com/YOURUSERNAME/tryitonce/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/barkuntasrinivas2025-stack/tryitonce/actions/workflows/ci.yml/badge.svg)
 
 > Production-grade Android authentication platform built with Kotlin, Jetpack Compose, Hilt, and Clean Architecture. Designed to connect to a real REST backend — swap one line to go from mock to production.
 
 ---
 
-## Screen Responces Demo
+## Demo
 > Register → Login → Home → Logout — full auth flow
 > ![Image](https://github.com/user-attachments/assets/6413bc8e-38a2-484d-837a-72691c20795a)
 
