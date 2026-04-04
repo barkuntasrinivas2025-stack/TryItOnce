@@ -15,7 +15,7 @@
 
 > Register → Login → Home → Logout — full auth flow
 
-*(Add your demo GIF here after recording)*
+[*(Add your demo GIF here after recording)*](https://github.com/barkuntasrinivas2025-stack/tryitonce/blob/1ab19ee7ace327be3c86ec20088f224cd99ea9aa/tryitonce/Screenpresent/tryitonce_app_screens.html)
 
 ---
 
