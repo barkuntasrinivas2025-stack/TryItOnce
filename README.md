@@ -13,6 +13,7 @@
 
 ## Screen Responces Demo
 > Register → Login → Home → Logout — full auth flow
+<!-- Uploading "Screen_recording_20260404_214256-ezgif.com-video-to-gif-converter.gif"... -->
 [tryitonce_app_screens.html](https://github.com/user-attachments/files/26481314/tryitonce_app_screens.html)
 ---
 
