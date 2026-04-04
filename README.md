@@ -23,7 +23,7 @@
 
 | Login | Register | Home |
 |-------|----------|------|
-| tryitonce/ScreenShots/CreateAccount.png| tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/HomeScreen.png |
+| tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/HomeScreen.png |
 
 ---
 
