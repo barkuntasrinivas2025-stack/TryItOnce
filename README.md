@@ -14,7 +14,7 @@
 ## Demo
 
 > Register → Login → Home → Logout — full auth flow
-copy past in any Browser Link :- file:///C:/Projects/final/app/src/main/java/com/TRY/Screenpresent/tryitonce_app_screens.html
+[tryitonce_app_screens.html](https://github.com/user-attachments/files/26481314/tryitonce_app_screens.html)
 ---
 
 ## Screenshots
