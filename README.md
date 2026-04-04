@@ -23,7 +23,7 @@
 
 | Login | Register | Home |
 |-------|----------|------|
-| Screenpresent/tryitonce_app_screens.html |
+| tryitonce/ScreenShots/LoginScreen.png | tryitonce/ScreenShots/CreateAccount.png | tryitonce/ScreenShots/HomeScreen.png |
 
 ---
 
