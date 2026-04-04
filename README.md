@@ -21,7 +21,9 @@ copy past in any Browser Link :- file:///C:/Projects/final/app/src/main/java/com
 
 | Login | Register | Home |
 |-------|----------|------|
-| [tryitonce/tryitonce/ScreenShots/CreateAccount.png](https://github.com/barkuntasrinivas2025-stack/tryitonce/blob/76922c650a788c309c9cf2f1d74f7fc83e415d4f/tryitonce/ScreenShots/CreateAccount.jpg) | [tryitonce/ScreenShots/CreateAccount.png ](https://github.com/barkuntasrinivas2025-stack/tryitonce/blob/c6c2627b618c22d215d5576f52151f4952886fb6/tryitonce/ScreenShots/HomeScreen.jpg) | [tryitonce/ScreenShots/HomeScreen.png ](https://github.com/barkuntasrinivas2025-stack/tryitonce/blob/c6c2627b618c22d215d5576f52151f4952886fb6/tryitonce/ScreenShots/LoginScreen.jpg)|
+| Login | Register | Home |
+|-------|----------|------|
+| ![Login](tryitonce/ScreenShots/LoginScreen.jpg) | ![Register](tryitonce/ScreenShots/CreateAccount.jpg) | ![Home](tryitonce/ScreenShots/HomeScreen.jpg) |
 
 ---
 
