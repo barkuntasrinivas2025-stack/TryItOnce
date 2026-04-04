@@ -13,7 +13,7 @@
 
 ## Screen Responces Demo
 > Register → Login → Home → Logout — full auth flow
-> <!-- Uploading "Screen_recording_20260404_214256-ezgif.com-video-to-gif-converter.gif"... -->
+> ![Image](https://github.com/user-attachments/assets/6413bc8e-38a2-484d-837a-72691c20795a)
 
 ---
 
